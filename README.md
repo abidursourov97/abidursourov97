@@ -24,7 +24,9 @@ QA Engineer focused on finding clear, reproducible defects and improving product
 ### Performance Testing
 - [JMeter Performance Testing Project](https://github.com/abidursourov97/Performance-Testing-Project-) — JMeter test plans for response-time, throughput, error-rate, and virtual-user analysis.
 
-### Automation Practice
+### Automation Projects
+
+- [Allred's Playwright Automation Project](https://github.com/abidursourov97/allreds-playwright-automation) — Playwright E2E automation with 10 test cases covering homepage, search, products, authentication, and dashboard; includes Page Object Model, reports, failure artifacts, and GitHub Actions.
 - [Selenium WebDriver Practice](https://github.com/abidursourov97/Selenium-Basic) — Java examples for locators, waits, alerts, dropdowns, tables, windows/tabs, and TestNG.
 
 ## Tools
